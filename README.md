@@ -3,5 +3,5 @@
 - **Group Name**: 
 
 - **Group Members**: 
-    - Domer McDomerson (dmcdomers@nd.edu) 
-    - Belle Fleur (bfleur@nd.edu) 
+    - Bobby Rizzo (rrizzo@nd.edu) 
+    - Obi Onwuanibe (Obi's Email Here) 
